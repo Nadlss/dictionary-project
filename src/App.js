@@ -14,6 +14,9 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small>Coded by Susana Simões</small>
+        <br />
+        <small>Background photo by <a href="https://unsplash.com/@noitadigital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Noita Digital</a> on <a href="https://unsplash.com/s/photos/chalkboard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </small>
       </footer>
       </div>
     </div>
