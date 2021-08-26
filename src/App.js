@@ -1,3 +1,4 @@
+import React from "react";
 import logo from './undraw_Bibliophile_hwqc.png';
 import './App.css';
 import Dictionary from "./Dictionary";
