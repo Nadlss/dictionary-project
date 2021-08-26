@@ -1,0 +1,12 @@
+.Meaning h3 {
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.Meaning .exampleSentence {
+  font-style: italic;
+  color: #9e7777;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}

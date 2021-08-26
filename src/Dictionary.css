@@ -1,2 +1,27 @@
-.Dictionary {
+.Dictionary .titleQ {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.Dictionary section {
+  background: #feffe2;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 3px 3px 5px rgb(218, 213, 171);
+  margin: 15px;
+  color: #6f4c5b;
+}
+
+.Dictionary input {
+  width: 100%;
+  background: #fdfde9;
+  padding: 3px 5px;
+  border: 1px solid #dad5ab;
+  border-radius: 4px;
+  color: #6f4c5b;
+}
+
+.Dictionary .Hint {
+  font-size: 75%;
+  font-style: italic;
 }

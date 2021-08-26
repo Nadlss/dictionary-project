@@ -1,0 +1,21 @@
+.Phonetic a {
+  text-decoration: none;
+  font-size: 18px;
+  margin-right: 12px;
+}
+
+.Phonetic a:hover {
+  background-color: #deba9d;
+  color: #f5e8c7;
+  margin: 5px solid #9e7777;
+}
+
+.Phonetic .sound {
+  width: 45px;
+  margin-bottom: 15px;
+}
+
+.Phonetic {
+  font-weight: bold;
+  height: 60px;
+}

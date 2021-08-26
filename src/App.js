@@ -1,4 +1,4 @@
-import logo from './099-book-3.png';
+import logo from './undraw_Bibliophile_hwqc.png';
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -10,10 +10,10 @@ export default function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo"/>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="beach"/>
       </main>
       <footer className="App-footer">
-        <small>Coded by Susana Simões</small>
+        <small>Coded by <a href="https://github.com/Nadlss">Susana Simões</a></small>
         <br />
           {/* Background photo by <a href="https://unsplash.com/@noitadigital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Noita Digital</a> on <a href="https://unsplash.com/s/photos/chalkboard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> */}
       </footer>
