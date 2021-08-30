@@ -14,7 +14,7 @@ export default function App() {
         <Dictionary defaultKeyword="beach"/>
       </main>
       <footer className="App-footer">
-        <small>Coded by <a href="https://github.com/Nadlss">Susana Simões</a></small>
+        <small>This project was coded by <a href="https://github.com/Nadlss">Susana Simões</a> is <a href="https://github.com/Nadlss/dictionary-project">open-sourced on GitHub</a> and hosted on <a href="https://app.netlify.com/teams/nadlss/overview">Netlify</a>.</small>
       </footer>
       </div>
     </div>
