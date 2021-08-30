@@ -19,9 +19,15 @@ a {
   max-width: 150px;
   display: block;
   margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 3px 3px 5px rgb(218, 213, 171);
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+
+.App-footer a {
+  text-transform: none;
 }
